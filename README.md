@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hakkliha
 - 👀 I’m interested in Robots
-- 🌱 I’m currently learning Robotics Engineering
+- 🌱 I have a bachelors degree in Robotics Engineering
+- 📕 Studying Industrial Engineering and Management
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me https://ernits.com
 
